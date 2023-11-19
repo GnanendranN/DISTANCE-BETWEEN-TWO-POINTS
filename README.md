@@ -13,7 +13,7 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 Format the distance as a floating-point number: 'e = "{:.2f}".format(d)'.
 ### Step 5: 
 Print the formatted distance
-### PROGRAM:
+## PROGRAM:
 ```
 #Program to find the distance between two points.
 #Developed by: Gnanendran N
@@ -25,7 +25,7 @@ d=math.sqrt((x2-x1)**2+(y2-y1)**2)
 e="{:.2f}".format(d)
 print(e)
 ```
-### OUTPUT:
-![distance](https://github.com/GnanendranN/DISTANCE-BETWEEN-TWO-POINTS/assets/138955207/8a0c6911-2881-4324-a600-97fc0c1cfdd0)
-### RESULT:
-Thus the finding the distance between two 2 points is successfully executed
+## OUTPUT:
+![output](/distance.png)
+## RESULT:
+Thus finding the distance between two 2 points is successfully executed
