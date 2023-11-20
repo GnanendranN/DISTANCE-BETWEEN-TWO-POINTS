@@ -28,4 +28,4 @@ print(e)
 ## OUTPUT:
 ![output](/distance.png)
 ## RESULT:
-Thus finding the distance between two 2 points is successfully executed
+Thus finding the distance between two points is successfully executed
